@@ -1,4 +1,4 @@
-- Ques 4 => include method = sentence.includes(word/abc)
+<!-- - Ques 4 => include method = sentence.includes(word/abc)
 - Ques 5 => Split method = sentence.split("on basis of which it is split")
 - Ques 7 => lastIndexOf = sentence.lastIndexOf(word/abc) *It only shows the first occurance of the word/abc*
 
@@ -22,6 +22,6 @@ let c1 = [6, 10];
 
 let finalc = c1.map(x=>x-2);
 let slope = finalc[1]/finalc[0];
-console.log(slope);
+console.log(slope); -->
 ```
 
